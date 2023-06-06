@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.playbtn {
+  padding: 10px;
+  border-radius: 20%;
+  border: none;
+  background-color: #828282;
+  color: #ffff;
+  display: flex;
+  margin: auto;
+  margin-top: 20px;
+}
+.playbtn:hover {
+  cursor: pointer;
+  widows: 200px;
+  background-color: #236454;
+}
